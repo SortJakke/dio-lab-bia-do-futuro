@@ -25,4 +25,4 @@ python -m streamlit run ./src/app.py
 ```
 
 ## Evidência de Execução
-![Print da ferramenta em execução](preview.png)
+![Print da ferramenta em execução](../assets/preview.png)
